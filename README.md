@@ -1,0 +1,2 @@
+# searchengine
+A search engine is a software program that helps people find the information they are looking for online keywords or phrases. Search engines are able to return results quickly—even with millions of websites online—by scanning the Internet continuously and indexing every page they find. When a user enters a search term, the search engine looks at the website page titles, contents and keywords it has indexed and uses algorithms (step-by-step operations) to produce a list of sites—with the most relevant websites at the top of the list.
